@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=mio
+Comment=A dynamic tiling Wayland compositor built on Luminaria
+Exec=mio
+Type=Application
+DesktopNames=mio
